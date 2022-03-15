@@ -6,7 +6,9 @@ video2gif as the name says converts videos to GIF and provide a set of customize
 
 Step 1 - Clone this repo
 
-Step 2 - MoviePy (required)
+Step 2 - Create data and out folder (required)
+
+Step 3 - MoviePy (required)
 
 ```python
 (sudo) pip install moviepy
