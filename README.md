@@ -19,7 +19,7 @@ Checkout documentation for more : https://zulko.github.io/moviepy/install.html
 Run Script
 
 ```python
-pip main.py
+python main.py
 ```
 
 User Inputs :
